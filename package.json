@@ -1,0 +1,24 @@
+{
+  "name": "mitra-nammaeco",
+  "version": "2.0.0",
+  "description": "Mitra NammaEco — Multi-language financial assistant for informal workers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^7.3.0",
+    "@google-cloud/text-to-speech": "^5.3.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.15.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.8.0",
+    "firebase-functions": "^6.0.0",
+    "form-data": "^4.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

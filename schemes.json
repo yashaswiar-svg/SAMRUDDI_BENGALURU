@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "PM SVANidhi",
+    "category": "street_vendor",
+    "benefit": "₹10,000 working capital loan at 7% interest",
+    "eligibility": "Street vendors with city certificate",
+    "kannada_name": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಸ್ವ-ನಿಧಿ"
+  },
+  {
+    "id": 2,
+    "name": "Karnataka Rajiv Gandhi Gruha Vahini",
+    "category": "women_entrepreneur",
+    "benefit": "₹2 lakh loan at subsidized rate for women entrepreneurs",
+    "eligibility": "Women between 18-55 years in Karnataka"
+  },
+  {
+    "id": 3,
+    "name": "PM Jan Dhan Yojana",
+    "category": "all",
+    "benefit": "Zero-balance bank account with free insurance",
+    "eligibility": "Any Indian citizen without a bank account"
+  },
+  {
+    "id": 4,
+    "name": "Ayushman Bharat",
+    "category": "all",
+    "benefit": "₹5 lakh health insurance per family per year",
+    "eligibility": "Low-income families"
+  },
+  {
+    "id": 5,
+    "name": "MUDRA Loan - Shishu",
+    "category": "small_business",
+    "benefit": "Up to ₹50,000 collateral-free business loan",
+    "eligibility": "Any small business owner or entrepreneur"
+  }
+]
